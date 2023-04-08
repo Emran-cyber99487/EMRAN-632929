@@ -1,3 +1,1 @@
-import os
-import pp
-pp.login()
+বোদা চুদি
